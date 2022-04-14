@@ -23,3 +23,13 @@ My task list after intalling a mac
     -   [ ] open a terminal and run the cmd `git`. This will open a wizard to install git.
     -   [ ] [generate ssh](https://gist.github.com/robkorv/592b46e8ff9742d74ca4a3f894857dee) -> [add ssh github](https://github.com/settings/ssh)
     -   [ ] `git config --global user.name "Robbert Korving"` -> `git config --global user.email "r.korving@gmail.com"`
+
+-   git
+
+    -   [ ] open a terminal and run the cmd `git`. This will open a wizard to install git.
+    -   [ ] [generate ssh](https://gist.github.com/robkorv/592b46e8ff9742d74ca4a3f894857dee) -> [add ssh github](https://github.com/settings/ssh)
+    -   [ ] `git config --global user.name "Robbert Korving"` -> `git config --global user.email "r.korving@gmail.com"`
+
+-   misc
+
+    -   [ ] [sublime](https://www.sublimetext.com/)
