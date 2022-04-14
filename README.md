@@ -33,3 +33,4 @@ My task list after intalling a mac
 -   misc
 
     -   [ ] [sublime](https://www.sublimetext.com/)
+    -   [ ] [node](https://nodejs.org/en/download/)
