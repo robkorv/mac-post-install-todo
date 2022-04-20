@@ -32,5 +32,7 @@ My task list after intalling a mac
 
 -   misc
 
+    -   [ ] [brew](https://brew.sh/)
+        -   [ ] [antigen](https://github.com/zsh-users/antigen/wiki/Installation)
     -   [ ] [sublime](https://www.sublimetext.com/)
     -   [ ] [node](https://nodejs.org/en/download/)
